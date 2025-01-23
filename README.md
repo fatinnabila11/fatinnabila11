@@ -1,5 +1,5 @@
 👋 Hi, I’m Nur Fatin Nabila  
-👀 I’m interested in Programming 
+👀 I’m interested in Programming  
 🌱 I’m currently learning Computer Science (Graphics and Multimedia) at UTM
 
  instagram : @n.fatinnabila
